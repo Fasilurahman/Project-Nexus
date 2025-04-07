@@ -1,0 +1,375 @@
+[2025-03-22 17:00:05] error: Error: Invalid user ID.
+Stacktrace: Error: Invalid user ID.
+    at GetAllProjectsUseCase.<anonymous> (C:\Users\USER\Desktop\brototype\project-management-system\backend\src\application\usecases\project\GetAllProjectsUseCase.ts:11:19)
+    at Generator.next (<anonymous>)
+    at C:\Users\USER\Desktop\brototype\project-management-system\backend\src\application\usecases\project\GetAllProjectsUseCase.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\USER\Desktop\brototype\project-management-system\backend\src\application\usecases\project\GetAllProjectsUseCase.ts:4:12)
+    at GetAllProjectsUseCase.execute (C:\Users\USER\Desktop\brototype\project-management-system\backend\src\application\usecases\project\GetAllProjectsUseCase.ts:19:16)
+    at C:\Users\USER\Desktop\brototype\project-management-system\backend\src\presentation\controllers\ProjectController.ts:163:58
+    at Generator.next (<anonymous>)
+    at C:\Users\USER\Desktop\brototype\project-management-system\backend\src\presentation\controllers\ProjectController.ts:8:71
+    at new Promise (<anonymous>)
+[2025-03-23 23:29:29] error: Error: Invalid project id
+[2025-03-23 23:29:29] error: Error: Invalid chat ID.
+[2025-03-25 11:07:50] error: Error: Only images and PDFs are allowed
+[2025-03-25 11:08:05] error: Error: Only images and PDFs are allowed
+[2025-03-25 11:08:41] error: Error: Invalid region: region was not a valid DNS name.
+[2025-03-25 11:10:52] error: Error: The bucket does not allow ACLs
+[2025-03-25 11:14:25] error: Error: The bucket does not allow ACLs
+[2025-03-25 12:07:55] error: Error: Invalid project id
+[2025-03-25 12:07:55] error: Error: Invalid chat ID.
+[2025-03-25 12:08:13] error: Error: Invalid project id
+[2025-03-25 12:08:13] error: Error: Invalid project id
+[2025-03-25 12:08:44] error: Error: Invalid project id
+[2025-03-25 12:08:45] error: Error: Invalid project id
+[2025-03-25 12:08:47] error: Error: Invalid project id
+[2025-03-25 12:08:51] error: Error: Invalid project id
+[2025-03-25 12:08:55] error: Error: Invalid project id
+[2025-03-25 12:09:04] error: Error: Invalid project id
+[2025-03-25 12:11:21] error: Error: Invalid project id
+[2025-03-25 12:11:21] error: Error: Invalid chat ID.
+[2025-03-25 12:11:33] error: Error: Invalid project id
+[2025-03-25 12:11:33] error: Error: Invalid chat ID.
+[2025-03-25 12:12:13] error: Error: Invalid project id
+[2025-03-25 12:12:15] error: Error: Invalid project id
+[2025-03-25 12:12:19] error: Error: Invalid project id
+[2025-03-25 12:12:20] error: Error: Invalid project id
+[2025-03-25 12:12:31] error: Error: Invalid project id
+[2025-03-25 12:12:35] error: Error: Invalid project id
+[2025-03-25 12:12:54] error: Error: Invalid project id
+[2025-03-25 12:12:54] error: Error: Invalid chat ID.
+[2025-03-26 11:08:51] error: Error: Incorrect password.
+[2025-03-26 11:08:57] error: Error: Incorrect password.
+[2025-03-26 11:09:06] error: Error: Incorrect password.
+[2025-03-26 11:09:18] error: Error: Incorrect password.
+[2025-03-26 11:09:26] error: Error: Incorrect password.
+[2025-03-26 14:42:39] error: Error: User not found.
+[2025-03-26 14:43:15] error: Error: Incorrect password.
+[2025-03-26 14:53:34] error: Error: User blocked successfully.
+[2025-03-26 14:53:40] error: Error: User blocked successfully.
+[2025-03-26 14:53:43] error: Error: User blocked successfully.
+[2025-03-26 14:53:44] error: Error: User blocked successfully.
+[2025-03-26 14:53:44] error: Error: User blocked successfully.
+[2025-03-26 14:53:56] error: Error: User blocked successfully.
+[2025-03-26 14:54:15] error: Error: Incorrect password.
+[2025-03-26 17:05:30] error: Error: Incorrect password.
+[2025-03-26 17:42:17] error: Error: Incorrect password.
+[2025-03-26 17:44:25] error: Error: Incorrect password.
+[2025-03-27 09:04:03] error: Error: Incorrect password.
+[2025-03-27 09:04:13] error: Error: Incorrect password.
+[2025-03-27 10:08:52] error: Error: The difference between the request time and the current time is too large.
+[2025-03-27 10:13:40] error: Error: The difference between the request time and the current time is too large.
+[2025-03-27 10:18:35] error: Error: The difference between the request time and the current time is too large.
+[2025-03-27 10:19:46] error: Error: The difference between the request time and the current time is too large.
+[2025-03-27 10:28:33] error: Error: The difference between the request time and the current time is too large.
+[2025-03-27 20:00:03] error: Error: The difference between the request time and the current time is too large.
+[2025-03-27 20:02:42] error: Error: The difference between the request time and the current time is too large.
+[2025-03-27 20:07:24] error: Error: The difference between the request time and the current time is too large.
+[2025-03-27 20:41:25] error: Error: The difference between the request time and the current time is too large.
+[2025-03-27 20:47:16] error: Error: The difference between the request time and the current time is too large.
+[2025-03-27 21:40:03] error: Error: The difference between the request time and the current time is too large.
+[2025-03-27 21:41:32] error: Error: The difference between the request time and the current time is too large.
+[2025-03-27 21:44:01] error: Error: The difference between the request time and the current time is too large.
+[2025-03-27 21:46:04] error: Error: The difference between the request time and the current time is too large.
+[2025-03-28 00:25:29] error: Error: Invalid project id
+[2025-03-28 00:25:29] error: Error: Invalid chat ID.
+[2025-03-28 00:26:18] error: Error: Invalid project id
+[2025-03-28 00:26:18] error: Error: Invalid chat ID.
+[2025-03-28 00:27:27] error: Error: User ID is required.
+[2025-03-28 01:26:10] error: Error: Invalid project id
+[2025-03-28 01:26:10] error: Error: Invalid chat ID.
+[2025-03-28 02:47:12] error: Error: Only images and PDFs are allowed
+[2025-03-28 02:47:17] error: Error: Only images and PDFs are allowed
+[2025-03-28 02:47:59] error: Error: Only images and PDFs are allowed
+[2025-03-28 02:48:46] error: Error: Only images and PDFs are allowed
+[2025-03-28 02:51:44] error: Error: Only images and PDFs are allowed
+[2025-03-28 02:53:01] error: Error: Only images and PDFs are allowed
+[2025-04-02 08:51:00] error: Error: Invalid project id
+[2025-04-02 08:51:00] error: Error: Invalid chat ID.
+[2025-04-03 00:39:27] error: Error: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+[2025-04-03 00:40:15] error: Error: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+[2025-04-03 04:52:42] error: Error: The difference between the request time and the current time is too large.
+[2025-04-03 05:54:42] error: Error: Cannot populate path `projectIds` because it is not in your schema. Set the `strictPopulate` option to false to override.
+[2025-04-03 18:27:27] error: Error: Cast to [ObjectId] failed for value "`[ '["67b37f6ef72617414815b1a4"]' ]`" (type string) at path "members.0" because of "CastError"
+[2025-04-03 18:29:41] error: Error: Cast to [ObjectId] failed for value "`[ '["67b37f6ef72617414815b1a4"]' ]`" (type string) at path "members.0" because of "CastError"
+[2025-04-03 18:31:15] error: Error: Cast to [ObjectId] failed for value "`[ '["67b37f6ef72617414815b1a4"]' ]`" (type string) at path "members.0" because of "CastError"
+[2025-04-03 18:36:01] error: Error: Cast to [ObjectId] failed for value "`[ '["67b37f6ef72617414815b1a4"]' ]`" (type string) at path "members.0" because of "CastError"
+[2025-04-03 18:37:40] error: Error: Cast to [ObjectId] failed for value "`[ '["67b37f6ef72617414815b1a4"]' ]`" (type string) at path "members.0" because of "CastError"
+[2025-04-04 02:31:38] error: Error: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+[2025-04-04 04:16:31] error: Error: Invalid project id
+[2025-04-04 04:16:32] error: Error: Invalid chat ID.
+[2025-04-04 04:19:32] error: Error: Invalid chat ID.
+[2025-04-04 04:21:21] error: Error: Invalid chat ID.
+[2025-04-04 04:31:44] error: Error: Invalid chat ID.
+[2025-04-04 04:32:15] error: Error: Invalid chat ID.
+[2025-04-04 04:36:58] error: Error: Invalid chat ID.
+[2025-04-04 04:37:02] error: Error: Invalid chat ID.
+[2025-04-04 04:38:04] error: Error: Invalid chat ID.
+[2025-04-04 04:38:29] error: Error: Invalid chat ID.
+[2025-04-04 04:39:52] error: Error: Invalid chat ID.
+[2025-04-04 04:40:07] error: Error: Invalid chat ID.
+[2025-04-04 04:40:12] error: Error: Invalid chat ID.
+[2025-04-04 04:40:36] error: Error: Invalid chat ID.
+[2025-04-04 04:40:47] error: Error: Invalid chat ID.
+[2025-04-04 04:53:54] error: Error: Invalid chat ID.
+[2025-04-04 04:54:21] error: Error: Invalid chat ID.
+[2025-04-04 04:54:26] error: Error: Invalid chat ID.
+[2025-04-04 04:54:28] error: Error: Invalid chat ID.
+[2025-04-04 04:54:29] error: Error: Invalid chat ID.
+[2025-04-04 04:54:32] error: Error: Invalid chat ID.
+[2025-04-04 04:54:33] error: Error: Invalid chat ID.
+[2025-04-04 04:54:36] error: Error: Invalid chat ID.
+[2025-04-04 04:54:40] error: Error: Invalid chat ID.
+[2025-04-04 04:54:59] error: Error: Invalid chat ID.
+[2025-04-04 04:55:08] error: Error: Invalid chat ID.
+[2025-04-04 04:55:09] error: Error: Invalid chat ID.
+[2025-04-04 04:55:10] error: Error: Invalid chat ID.
+[2025-04-04 04:55:28] error: Error: Invalid chat ID.
+[2025-04-04 04:55:34] error: Error: Invalid chat ID.
+[2025-04-04 04:55:36] error: Error: Invalid chat ID.
+[2025-04-04 04:55:38] error: Error: Invalid chat ID.
+[2025-04-04 04:55:40] error: Error: Invalid chat ID.
+[2025-04-04 04:55:58] error: Error: Invalid chat ID.
+[2025-04-04 04:56:45] error: Error: Invalid chat ID.
+[2025-04-04 04:58:36] error: Error: Invalid chat ID.
+[2025-04-04 04:58:54] error: Error: Invalid chat ID.
+[2025-04-04 04:58:57] error: Error: Invalid chat ID.
+[2025-04-04 04:59:14] error: Error: Invalid chat ID.
+[2025-04-04 05:00:43] error: Error: Invalid chat ID.
+[2025-04-04 05:00:47] error: Error: Invalid chat ID.
+[2025-04-04 05:11:50] error: Error: Invalid chat ID.
+[2025-04-04 05:12:06] error: Error: Invalid chat ID.
+[2025-04-04 05:12:07] error: Error: Invalid chat ID.
+[2025-04-04 20:28:52] error: Error: The difference between the request time and the current time is too large.
+[2025-04-04 20:33:59] error: Error: The difference between the request time and the current time is too large.
+[2025-04-04 20:38:36] error: Error: Invalid chat ID.
+[2025-04-04 21:07:59] error: Error: Invalid chat ID.
+[2025-04-04 21:09:32] error: Error: Invalid chat ID.
+[2025-04-04 21:09:45] error: Error: Invalid chat ID.
+[2025-04-04 21:09:58] error: Error: Invalid chat ID.
+[2025-04-04 21:10:04] error: Error: Invalid chat ID.
+[2025-04-04 21:36:05] error: Error: Invalid chat ID.
+[2025-04-04 21:36:18] error: Error: Invalid chat id
+[2025-04-04 22:44:11] error: Error: Invalid chat ID.
+[2025-04-04 23:07:04] error: Error: Invalid chat ID.
+[2025-04-04 23:09:56] error: Error: Invalid chat ID.
+[2025-04-05 04:00:48] error: Error: Invalid chat ID.
+[2025-04-05 05:39:49] error: Error: Missing required param: name.
+[2025-04-05 05:39:49] error: Error: Missing required param: name.
+[2025-04-05 05:39:49] error: Error: Missing required param: name.
+[2025-04-05 05:39:49] error: Error: Missing required param: name.
+[2025-04-05 05:39:49] error: Error: Missing required param: name.
+[2025-04-05 05:39:49] error: Error: Missing required param: name.
+[2025-04-05 05:39:49] error: Error: Missing required param: name.
+[2025-04-05 05:39:49] error: Error: Missing required param: name.
+[2025-04-05 05:39:49] error: Error: Missing required param: name.
+[2025-04-05 05:39:49] error: Error: Missing required param: name.
+[2025-04-05 05:39:49] error: Error: Missing required param: name.
+[2025-04-05 05:39:49] error: Error: Missing required param: name.
+[2025-04-05 05:39:49] error: Error: Missing required param: name.
+[2025-04-05 05:39:50] error: Error: Missing required param: name.
+[2025-04-05 05:41:48] error: Error: Missing required param: name.
+[2025-04-05 05:41:48] error: Error: Missing required param: name.
+[2025-04-05 05:41:48] error: Error: Missing required param: name.
+[2025-04-05 05:41:48] error: Error: Missing required param: name.
+[2025-04-05 05:41:48] error: Error: Missing required param: name.
+[2025-04-05 05:41:48] error: Error: Missing required param: name.
+[2025-04-05 05:41:48] error: Error: Missing required param: name.
+[2025-04-05 05:41:48] error: Error: Missing required param: name.
+[2025-04-05 05:41:48] error: Error: Missing required param: name.
+[2025-04-05 05:41:49] error: Error: Missing required param: name.
+[2025-04-05 05:41:49] error: Error: Missing required param: name.
+[2025-04-05 05:41:49] error: Error: Missing required param: name.
+[2025-04-05 05:41:49] error: Error: Missing required param: name.
+[2025-04-05 05:41:49] error: Error: Missing required param: name.
+[2025-04-05 05:53:01] error: Error: Missing required param: name.
+[2025-04-05 05:53:01] error: Error: Missing required param: name.
+[2025-04-05 05:53:01] error: Error: Missing required param: name.
+[2025-04-05 05:53:01] error: Error: Missing required param: name.
+[2025-04-05 05:53:01] error: Error: Missing required param: name.
+[2025-04-05 05:53:01] error: Error: Missing required param: name.
+[2025-04-05 05:53:01] error: Error: Missing required param: name.
+[2025-04-05 05:53:01] error: Error: Missing required param: name.
+[2025-04-05 05:53:01] error: Error: Missing required param: name.
+[2025-04-05 05:53:01] error: Error: Missing required param: name.
+[2025-04-05 05:53:01] error: Error: Missing required param: name.
+[2025-04-05 05:53:01] error: Error: Missing required param: name.
+[2025-04-05 05:53:02] error: Error: Missing required param: name.
+[2025-04-05 05:53:02] error: Error: Missing required param: name.
+[2025-04-05 05:59:08] error: Error: Missing required param: name.
+[2025-04-05 05:59:08] error: Error: Missing required param: name.
+[2025-04-05 05:59:08] error: Error: Missing required param: name.
+[2025-04-05 05:59:08] error: Error: Missing required param: name.
+[2025-04-05 05:59:08] error: Error: Missing required param: name.
+[2025-04-05 05:59:08] error: Error: Missing required param: name.
+[2025-04-05 05:59:08] error: Error: Missing required param: name.
+[2025-04-05 05:59:09] error: Error: Missing required param: name.
+[2025-04-05 05:59:09] error: Error: Missing required param: name.
+[2025-04-05 05:59:09] error: Error: Missing required param: name.
+[2025-04-05 05:59:10] error: Error: Missing required param: name.
+[2025-04-05 05:59:12] error: Error: Missing required param: name.
+[2025-04-05 05:59:13] error: Error: Missing required param: name.
+[2025-04-05 05:59:16] error: Error: Missing required param: name.
+[2025-04-05 06:12:40] error: Error: Missing required param: name.
+[2025-04-05 06:12:41] error: Error: Missing required param: name.
+[2025-04-05 06:12:41] error: Error: Missing required param: name.
+[2025-04-05 06:12:41] error: Error: Missing required param: name.
+[2025-04-05 06:12:41] error: Error: Missing required param: name.
+[2025-04-05 06:12:41] error: Error: Missing required param: name.
+[2025-04-05 06:12:41] error: Error: Missing required param: name.
+[2025-04-05 06:12:41] error: Error: Missing required param: name.
+[2025-04-05 06:12:41] error: Error: Missing required param: name.
+[2025-04-05 06:12:41] error: Error: Missing required param: name.
+[2025-04-05 06:12:41] error: Error: Missing required param: name.
+[2025-04-05 06:12:41] error: Error: Missing required param: name.
+[2025-04-05 06:12:41] error: Error: Missing required param: name.
+[2025-04-05 06:12:41] error: Error: Missing required param: name.
+[2025-04-05 06:26:10] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:26:10] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:26:10] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:26:10] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:26:11] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:26:11] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:26:11] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:26:11] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:26:11] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:26:11] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:26:11] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:26:11] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:26:11] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:26:11] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:45] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:45] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:45] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:45] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:45] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:45] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:45] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:45] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:45] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:45] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:45] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:45] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:46] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:37:46] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:29] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:29] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:29] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:29] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:29] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:29] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:29] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:29] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:29] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:29] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:29] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:29] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:29] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:39:30] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:43:56] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:43:56] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:43:56] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:43:56] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:43:56] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:43:56] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:43:57] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:43:57] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:43:57] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:43:57] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:43:58] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:44:00] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:44:02] error: Error: Timestamp outside the tolerance zone
+[2025-04-05 06:44:04] error: Error: Timestamp outside the tolerance zone
+[2025-04-04 21:27:03] error: Error: Invalid chat ID.
+[2025-04-05 11:01:10] error: Error: Cannot read properties of undefined (reading 'id')
+[2025-04-05 11:01:14] error: Error: Cannot read properties of undefined (reading 'id')
+[2025-04-05 11:02:41] error: Error: Cannot read properties of undefined (reading 'id')
+[2025-04-05 11:04:25] error: Error: Cannot read properties of undefined (reading 'id')
+[2025-04-05 11:06:29] error: Error: Cannot read properties of undefined (reading 'id')
+[2025-04-05 11:08:26] error: Error: Cannot read properties of undefined (reading 'id')
+[2025-04-05 11:11:02] error: Error: Cannot read properties of undefined (reading 'id')
+[2025-04-05 11:11:50] error: Error: Cannot read properties of undefined (reading 'id')
+[2025-04-05 11:13:01] error: Error: Cannot read properties of undefined (reading 'id')
+[2025-04-05 13:42:53] error: Error: Cast to ObjectId failed for value "sub_1RARqORqdif0lJsREUid6Trk" (type string) at path "subscriptionId" because of "BSONError"
+[2025-04-05 13:52:01] error: Error: Cast to ObjectId failed for value "sub_1RARz9Rqdif0lJsRA9Dl2khk" (type string) at path "subscriptionId" because of "BSONError"
+[2025-04-05 14:43:33] error: Error: Failed to fetch users
+[2025-04-05 14:43:33] error: Error: Cannot read properties of null (reading 'toString')
+[2025-04-05 14:55:11] error: Error: Failed to fetch users
+[2025-04-05 17:04:27] error: Error: Failed to fetch users
+[2025-04-05 17:47:44] error: Error: Failed to fetch users
+[2025-04-05 17:47:46] error: Error: Failed to fetch users
+[2025-04-05 17:47:46] error: Error: Invalid chat ID.
+[2025-04-05 17:48:23] error: Error: Invalid chat ID.
+[2025-04-05 17:48:23] error: Error: Failed to fetch users
+[2025-04-05 17:48:31] error: Error: Failed to fetch users
+[2025-04-05 17:48:31] error: Error: Invalid chat ID.
+[2025-04-05 17:48:39] error: Error: Failed to fetch users
+[2025-04-05 17:48:39] error: Error: Invalid chat ID.
+[2025-04-05 17:49:11] error: Error: Failed to fetch users
+[2025-04-05 17:49:11] error: Error: Invalid chat ID.
+[2025-04-05 17:50:12] error: Error: Failed to fetch users
+[2025-04-05 17:50:12] error: Error: Invalid chat ID.
+[2025-04-05 17:53:24] error: Error: Failed to fetch users
+[2025-04-05 17:53:24] error: Error: Invalid chat ID.
+[2025-04-05 17:54:28] error: Error: Failed to fetch users
+[2025-04-05 17:54:28] error: Error: Invalid chat ID.
+[2025-04-05 17:54:41] error: Error: Failed to fetch users
+[2025-04-05 17:54:41] error: Error: Invalid chat ID.
+[2025-04-05 17:54:52] error: Error: Failed to fetch users
+[2025-04-05 17:54:53] error: Error: Invalid chat ID.
+[2025-04-05 17:56:08] error: Error: Failed to fetch users
+[2025-04-05 17:56:09] error: Error: Invalid chat ID.
+[2025-04-05 17:57:11] error: Error: Invalid chat ID.
+[2025-04-05 17:57:11] error: Error: Failed to fetch users
+[2025-04-05 18:01:09] error: Error: Incorrect password.
+[2025-04-05 18:01:33] error: Error: Invalid chat ID.
+[2025-04-05 18:01:33] error: Error: Failed to fetch users
+[2025-04-05 18:01:51] error: Error: Incorrect password.
+[2025-04-05 18:02:22] error: Error: Invalid chat ID.
+[2025-04-05 18:02:22] error: Error: Failed to fetch users
+[2025-04-05 18:02:39] error: Error: Incorrect password.
+[2025-04-05 18:03:17] error: Error: Invalid chat ID.
+[2025-04-05 18:03:17] error: Error: Failed to fetch users
+[2025-04-05 18:05:09] error: Error: User not found.
+[2025-04-05 18:08:02] error: Error: User not found.
+[2025-04-05 18:08:27] error: Error: User not found.
+[2025-04-05 18:08:40] error: Error: User already exists.
+[2025-04-05 18:10:35] error: Error: User not found.
+[2025-04-05 19:15:35] error: Error: Invalid chat ID.
+[2025-04-05 19:15:35] error: Error: Failed to fetch users
+[2025-04-05 19:15:45] error: Error: Failed to fetch users
+[2025-04-05 19:15:51] error: Error: Failed to fetch users
+[2025-04-05 19:16:13] error: Error: Failed to fetch users
+[2025-04-05 19:16:44] error: Error: Failed to fetch users
+[2025-04-05 19:17:05] error: Error: Failed to fetch users
+[2025-04-05 19:17:06] error: Error: Failed to fetch users
+[2025-04-05 19:17:06] error: Error: Invalid chat ID.
+[2025-04-05 19:17:15] error: Error: Failed to fetch users
+[2025-04-05 19:17:16] error: Error: Failed to fetch users
+[2025-04-05 19:17:16] error: Error: Invalid chat ID.
+[2025-04-05 19:18:15] error: Error: Failed to fetch users
+[2025-04-05 19:23:19] error: Error: Failed to fetch users
+[2025-04-05 19:23:32] error: Error: Failed to fetch users
+[2025-04-05 19:23:41] error: Error: Failed to fetch users
+[2025-04-05 19:27:27] error: Error: Failed to fetch users
+[2025-04-05 19:27:42] error: Error: Failed to fetch users
+[2025-04-05 19:27:57] error: Error: Failed to fetch users
+[2025-04-05 19:27:58] error: Error: Failed to fetch users
+[2025-04-05 19:27:59] error: Error: Failed to fetch users
+[2025-04-05 19:28:00] error: Error: Failed to fetch users
+[2025-04-05 19:32:56] error: Error: Failed to fetch users
+[2025-04-05 19:32:56] error: Error: Failed to fetch users
+[2025-04-05 19:32:56] error: Error: Failed to fetch users
+[2025-04-05 19:32:56] error: Error: Failed to fetch users
+[2025-04-05 19:32:56] error: Error: Failed to fetch users
+[2025-04-05 19:32:57] error: Error: Failed to fetch users
+[2025-04-05 19:32:57] error: Error: Failed to fetch users
+[2025-04-05 19:33:01] error: Error: Failed to fetch users
+[2025-04-05 19:33:07] error: Error: Failed to fetch users
+[2025-04-05 19:33:22] error: Error: Failed to fetch users
+[2025-04-05 19:40:10] error: Error: Invalid chat ID.
+[2025-04-05 19:40:28] error: Error: Invalid chat ID.
+[2025-04-07 09:51:59] error: Error: Invalid chat ID.
+[2025-04-07 10:02:10] error: Error: Invalid chat ID.
+[2025-04-07 12:02:31] error: Error: Invalid chat ID.
