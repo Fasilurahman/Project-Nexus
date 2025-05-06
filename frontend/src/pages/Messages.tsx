@@ -152,6 +152,7 @@ const Messages = () => {
     });
 
     newSocket.on("chat-message", (newMessage) => {
+      console.log("Received new message:", newMessage);
       setMessages((prevMessages) => {
         if (prevMessages.some((msg) => msg._id === newMessage._id)) {
           return prevMessages;
